@@ -5,4 +5,3 @@ flask_bcrypt
 gunicorn
 numpy
 flask_wtf
-pickle
